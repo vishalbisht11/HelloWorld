@@ -1,5 +1,3 @@
-# HelloWorld
-My first repository
+# Graph Traversal Code
+Breadth First Search Code of Graph in Java.
 
-Hi, I am Vishal Bisht
-I am a Computer Engineering student in Mumbai.
